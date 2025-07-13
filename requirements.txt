@@ -1,0 +1,40 @@
+# Core Python Libraries
+numpy
+pandas
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Model Evaluation & Utilities
+joblib
+mlxtend
+
+# Jupyter & Notebooks
+jupyterlab
+ipykernel
+
+# Data Preprocessing & Feature Engineering
+category_encoders
+imblearn
+
+
+# Model Explainability (optional)
+shap
+lime
+
+# File Handling (optional)
+openpyxl
+xlrd
+
+# NLP (if needed)
+nltk
+spacy
+

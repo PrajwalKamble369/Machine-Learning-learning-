@@ -1,0 +1,12 @@
+# Ignore virtual environments
+venv/
+*/venv/
+*/ml/
+*/pakml/
+_pycache_/
+.ipynb_checkpoints/
+*.log
+*.tmp
+*.pdf
+*.csv
+.vscode/

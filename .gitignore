@@ -1,0 +1,35 @@
+# Ignore virtual environments (common names)
+venv/
+.venv/
+*/venv/
+*/.venv/
+*/ml/
+*/pakml/
+*/nlp/
+*/dsa/
+*/datascience/
+
+# Python bytecode
+_pycache_/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.pdf
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
