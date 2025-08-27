@@ -1,6 +1,6 @@
 # PakML
 
-This folder contains learning notebooks and experiments based on the *Pakistani Machine Learning series*.
+This folder contains learning notebooks and experiments based on the *Codanics Machine Learning series*.
 
 ## Contents:
 - 📘 Part1.ipynb — Covers basic ML concepts and Advance ML cocepts Theory 
