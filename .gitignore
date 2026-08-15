@@ -1,13 +1,7 @@
-# Ignore virtual environments (common names)
+# Virtual environments
 venv/
 .venv/
-*/venv/
-*/.venv/
-*/ml/
-*/pakml/
-*/nlp/
-*/dsa/
-*/datascience/
+ml_env/
 
 # Python bytecode
 _pycache_/
